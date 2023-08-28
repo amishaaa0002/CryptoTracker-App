@@ -8,7 +8,7 @@ A Cryptocurrency Tracker Application built with ReactJS that allows users to sta
 - [Prerequisites](#prerequisites)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
