@@ -5,11 +5,7 @@ A Cryptocurrency Tracker Application built with ReactJS that allows users to sta
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
+- [Prerequisites](#prerequisites)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
@@ -19,19 +15,16 @@ A Cryptocurrency Tracker Application built with ReactJS that allows users to sta
 - Real-time cryptocurrency data fetched from an API.
 - Interactive charts using ChartJS to visualize historical price trends.
 - User authentication system supporting both email-based and Google authentication.
-- Watchlist feature allowing users to track specific cryptocurrencies of interest.
-
-## Demo
-
-[Insert a link to a demo or screenshots of your application.]
-
-## Getting Started
+- Watchlist feature allowing users to track specific cryptocurrencies of interest
 
 ### Prerequisites
 
 - Node.js and npm (Node Package Manager)
 
-### Installation
+### Technologies used
+- ReactJS
+- NodeJS
+- Firebase
 
 1. Clone the repository:
 
